@@ -21,7 +21,7 @@ let arr = [
         name: "Cake Item",
         price: "15",
     }, {
-        img: "https://js-beginners.github.io/grocery-cart-project/img/cupcake-3.jpeg",
+        img: "https://js-beginners.github.io/grocery-cart-project/img/cupcake-1.jpeg",
         name: "Cupcake Item",
         price: "5",
     }, {
